@@ -1,5 +1,5 @@
 # sourcmeod-syskill
-leverages the system2 extension to call the linux `kill` command on the running srcds instance
+Leverages the [System2 Extension](https://github.com/dordnung/System2/releases/latest) (REQUIRED) to call the linux `kill` command on the running srcds instance
 
 Example usage:
 
